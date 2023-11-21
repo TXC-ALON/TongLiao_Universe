@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "奇葩小国数据库",
-      "path": "奇葩小国/奇葩小国数据库.md"
-    },
-    {
       "basename": "【奇葩小国02】庞氏骗局是怎么搞垮一个国家的？",
       "path": "奇葩小国/【奇葩小国02】庞氏骗局是怎么搞垮一个国家的？.md"
     },
@@ -13,8 +9,24 @@
       "path": "奇葩小国/【奇葩小国01】如何用外交得罪所有大国？.md"
     },
     {
+      "basename": "通辽单位",
+      "path": "通辽单位.md"
+    },
+    {
+      "basename": "恩维尔·霍查",
+      "path": "恩维尔·霍查.md"
+    },
+    {
       "basename": "阿尔巴尼亚",
       "path": "阿尔巴尼亚.md"
+    },
+    {
+      "basename": "霍查主义",
+      "path": "霍查主义.md"
+    },
+    {
+      "basename": "奇葩小国数据库",
+      "path": "奇葩小国/奇葩小国数据库.md"
     },
     {
       "basename": "通辽宇宙",
@@ -25,16 +37,8 @@
       "path": "庞氏陷阱.md"
     },
     {
-      "basename": "恩维尔·霍查",
-      "path": "恩维尔·霍查.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "通辽单位",
-      "path": "通辽单位.md"
     }
   ],
   "omittedPaths": [],

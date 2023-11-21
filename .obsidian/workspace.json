@@ -19,9 +19,11 @@
             "id": "573fad01f9bbb48f",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "奇葩小国/奇葩小国数据库.md"
+                "file": "奇葩小国/【奇葩小国02】庞氏骗局是怎么搞垮一个国家的？.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "奇葩小国/奇葩小国数据库.md"
+                "file": "奇葩小国/【奇葩小国02】庞氏骗局是怎么搞垮一个国家的？.md"
               }
             }
           },
@@ -187,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "奇葩小国/奇葩小国数据库.md",
+                "file": "奇葩小国/【奇葩小国02】庞氏骗局是怎么搞垮一个国家的？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "奇葩小国/奇葩小国数据库.md",
+                "file": "奇葩小国/【奇葩小国02】庞氏骗局是怎么搞垮一个国家的？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,18 +249,19 @@
   },
   "active": "573fad01f9bbb48f",
   "lastOpenFiles": [
-    "奇葩小国/【奇葩小国02】庞氏骗局是怎么搞垮一个国家的？.md",
     "奇葩小国/【奇葩小国01】如何用外交得罪所有大国？.md",
-    "奇葩小国/奇葩小国数据库.md",
+    "奇葩小国/【奇葩小国02】庞氏骗局是怎么搞垮一个国家的？.md",
+    "霍查主义.md",
+    "通辽单位.md",
+    "恩维尔·霍查.md",
     "阿尔巴尼亚.md",
+    "奇葩小国/奇葩小国数据库.md",
     "奇葩小国/国家位置图",
     "奇葩小国/国家位置图/阿尔巴尼亚.png",
     "7.md",
     "通辽宇宙.md",
     "庞氏陷阱.md",
-    "恩维尔·霍查.md",
     "README.md",
-    "通辽单位.md",
     "奇葩小国/中国.md",
     "奇葩小国/阿尔巴尼亚.md.md",
     "奇葩小国/如何用外交得罪所有大国？.md",
