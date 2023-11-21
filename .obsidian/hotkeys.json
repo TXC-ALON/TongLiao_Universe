@@ -1,0 +1,28 @@
+{
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F1"
+    }
+  ],
+  "cmdr:macro-0": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "keyboard-analyzer:show-shortcuts-analyzer-view": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "cmdr:macro-1": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ]
+}

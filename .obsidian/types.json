@@ -1,0 +1,8 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "更新时间": "datetime"
+  }
+}
