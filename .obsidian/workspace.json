@@ -19,12 +19,28 @@
             "id": "573fad01f9bbb48f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "奇葩小国/【奇葩小国04】22万美元，去冈比亚当总统！.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df772d7fd79c8a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "奇葩小国/【奇葩小国04】22万美元，去冈比亚当总统！.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "奇葩小国/【奇葩小国04】22万美元，去冈比亚当总统！.md"
+              }
             }
           },
           {
@@ -135,6 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "奇葩小国/【奇葩小国04】22万美元，去冈比亚当总统！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,6 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "奇葩小国/【奇葩小国04】22万美元，去冈比亚当总统！.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,22 +212,24 @@
       "excel:创建 Excel 文件": false
     }
   },
-  "active": "84af28109b5e1560",
+  "active": "df772d7fd79c8a86",
   "lastOpenFiles": [
-    "奇葩小国/关系图谱更新/2023-11-23 011937.png",
-    "奇葩小国/关系图谱更新",
     "奇葩小国/【奇葩小国02】庞氏骗局是怎么搞垮一个国家的？.md",
     "奇葩小国/【奇葩小国01】如何用外交得罪所有大国？.md",
+    "奇葩小国/【奇葩小国03】非洲小国是怎么实现赛博朋克的？.md",
     "奇葩小国/【奇葩小国04】22万美元，去冈比亚当总统！.md",
+    "冈比亚.md",
+    "通辽单位.md",
+    "恩维尔·霍查.md",
+    "奇葩小国/关系图谱更新/2023-11-23 011937.png",
+    "奇葩小国/关系图谱更新",
     "奇葩小国/奇葩小国-截止1122/奇葩小国截止1122sheet.md",
     "奇葩小国/奇葩小国-截止1122/奇葩小国-截止1122.sheet.md",
     "奇葩小国/奇葩小国-截止1122/奇葩小国-截止1122.sheet",
-    "冈比亚.md",
     "鲍勃·德纳尔.md",
     "非洲.md",
     "阿尔巴尼亚.md",
     "科摩罗.md",
-    "奇葩小国/【奇葩小国03】非洲小国是怎么实现赛博朋克的？.md",
     "奇葩小国/国旗国徽/01阿尔巴尼亚.png",
     "奇葩小国/国旗国徽/02科摩罗.png",
     "奇葩小国/国旗国徽/03冈比亚.png",
@@ -219,10 +241,8 @@
     "军火贩.md",
     "艾哈迈德·阿卜杜拉.md",
     "奇葩小国/国家位置图/02科摩罗.png",
-    "恩维尔·霍查.md",
     "奇葩小国数据库.md",
     "霍查主义.md",
-    "通辽单位.md",
     "奇葩小国/奇葩小国-截止1122",
     "奇葩小国/新建文件夹",
     "奇葩小国/奇葩小国-截止1122.sheet",
